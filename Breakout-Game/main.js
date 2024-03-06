@@ -51,7 +51,6 @@ let WIN_SOUND = new Audio();
 ///////audio sources to audio objects
 BRICK_HIT.src = "./sounds/brick_hit.mp3";
 PADDLE_HIT.src = "./sounds/paddle_hit.mp3";
-LIFE_LOST.src = "./sounds/life_lost.mp3";
 WALL_COLLISION.src = "./sounds/wall_collision.mp3";
 WIN_SOUND.src = "./sounds/win_sound.mp3";
 
