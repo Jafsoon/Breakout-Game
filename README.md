@@ -1,14 +1,11 @@
 # Breakout-Game
 
-##Breakeout-2D-Game 
+## Breakeout-2D-Game 
 Just Using Javascirpt and Html canvas
-![Game look1](Breakout-Game/Breakout-Game/screen-shots/Screenshot from 2024-03-06 06-29-15.png)
-![Game look2](Breakout-Game/Breakout-Game/screen-shots/Screenshot from 2024-03-06 06-29-28.png)
-![Game look3](Breakout-Game/Breakout-Game/screen-shots/Screenshot from 2024-03-06 06-32-31.png)
-# Breakout Game
 
 
-This is a simple breakout game of using HTML Canvas and JavaScript. 
+
+## This is a simple breakout game of using HTML Canvas and JavaScript. 
 
 # Getting Started
 
