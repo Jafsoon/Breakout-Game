@@ -40,3 +40,5 @@ This is a simple breakout game of using HTML Canvas and JavaScript.
 
 
 Enjoy the game 
+Best Regards 
+Jafsoon :)
